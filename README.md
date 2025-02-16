@@ -1,6 +1,6 @@
 # mercury
-Mercury Launcher - Email BULK Software
-By Graphi𝕏𝕏 RōninnovatiON ^ 𝕏/acc ⬛️
+Mercury Launcher - Email BULK Software <BR>
+By Graphi𝕏𝕏 RōninnovatiON ^ 𝕏/acc ⬛️ <BR>
 www.devmilitia.org
 
 STACK:
