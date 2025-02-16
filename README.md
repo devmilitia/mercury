@@ -33,7 +33,8 @@ Import DB and SET admin user and password ( MD5 ) in table admin<BR>
 this user is the login user<BR>
 
 <strong>STEP 2</strong><BR>
-Set all the DB user and password credentials of the MYSQL TABLE in the file:<BR>
+- Set the: $config["script_url"] = "http://localhost/mercury/datagrid/"; <br>
+- Set all the DB user and password credentials of the MYSQL TABLE in the file:<BR>
 mysqli.inc.php<BR>
 
 <strong>STEP 3</strong><br>
