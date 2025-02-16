@@ -15,7 +15,7 @@ www.devmilitia.org<br>
 - WORKS BULK SEND<BR>
 - WORKS SMTP ACCOUNT MANAGER<BR>
 
-STACK:<BR>
+<strong>STACK:</strong><BR>
 - PHP 8.3<BR>
 - MYSQL<BR>
 - ADMIN LTE 2.4.3 ( https://adminlte.io/ )<BR>
@@ -26,19 +26,20 @@ STACK:<BR>
 - IMGUR API ( https://imgur.com/ )<BR>
 - SMTP<BR>
 
-INSTALL INSTRUCTIONS:<BR>
+<strong>INSTALL INSTRUCTIONS:</strong><BR>
 
-1<BR>
+<strong>STEP 1</strong><BR>
 Import DB and SET admin user and password ( MD5 ) in table admin<BR>
 this user is the login user<BR>
 
-2<BR>
+<strong>STEP 2</strong><BR>
 Set all the DB user and password credentials of the MYSQL TABLE in the file:<BR>
 mysqli.inc.php<BR>
 
-READY!!!<BR>
+<strong>STEP 3</strong><br>
+READY TO USE!!!<BR>
 
-SCHEDULE UPDATES:
+<strong>SCHEDULE UPDATES:</strong><br>
 - SET A GOOGLE TRANSLATE JS PLUGIN
 - CHANGE THE LANGUAGE OF THE FRONT TO FULL ENGLISH
 - UPDATE MAIN LIBRARIES TO THE LATEST VERSIONS ( ADMIN LTE | PHP PDOCRUD | GRAPEJS | PHPMAILER )
