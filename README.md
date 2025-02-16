@@ -29,8 +29,8 @@ www.devmilitia.org<br>
 <strong>INSTALL INSTRUCTIONS:</strong><BR>
 
 <strong>STEP 1</strong><BR>
-Import DB and SET admin user and password ( MD5 ) in table admin<BR>
-this user is the login user<BR>
+- Import DB and SET admin user and password ( MD5 ) in table admin<BR>
+- This user is the login user<BR>
 
 <strong>STEP 2</strong><BR>
 - Set the: $config["script_url"] = "http://localhost/mercury/datagrid/"; <br>
