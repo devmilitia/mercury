@@ -5,7 +5,7 @@ www.devmilitia.org<br>
 
 ![alt text](https://i.postimg.cc/d03P6nnm/screenshot-2025-02-16-at-05-18-43.png)<br>
 
-FEATURES:<BR>
+<strong>FEATURES:</strong><BR>
 - WORKS SELECT AND EDIT CAMPAIGNS | HAS GRAPEJS MJML NEWSLETTERS<BR>
 - WORKS SAVE CAMPAIGN<BR>
 - WORKS OPEN CAMPAIGN WITH LATEST CHANGES SAVED<BR>
