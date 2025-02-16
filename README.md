@@ -1,7 +1,9 @@
 # mercury
 Mercury Launcher - Email BULK Software <BR>
 By Graphi𝕏𝕏 RōninnovatiON ^ 𝕏/acc ⬛️ <BR>
-www.devmilitia.org
+www.devmilitia.org<br>
+
+![alt text](https://i.postimg.cc/d03P6nnm/screenshot-2025-02-16-at-05-18-43.png)<br>
 
 STACK:<BR>
 
@@ -25,3 +27,7 @@ Set all the DB user and password credentials of the MYSQL TABLE in the file:<BR>
 mysqli.inc.php<BR>
 
 READY!!!<BR>
+
+SCHEDULE UPDATES:
+- SET A GOOGLE TRANSLATE JS PLUGIN
+- PUBLISH A MULTI USERS VERSION
