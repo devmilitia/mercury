@@ -130,12 +130,6 @@ CREATE TABLE `smtp` (
   `from_email` varchar(500) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_swedish_ci;
 
---
--- Dumping data for table `smtp`
---
-
-INSERT INTO `smtp` (`id`, `hostname`, `username`, `password`, `port`, `from_email`) VALUES
-(1, 'smtp.sendgrid.net', 'apikey', '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', '587', 'info@ventason.com');
 
 -- --------------------------------------------------------
 
