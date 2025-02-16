@@ -18,11 +18,11 @@ FEATURES:<BR>
 STACK:<BR>
 - PHP 8.3<BR>
 - MYSQL<BR>
-- ADMIN LTE 2.4.3<BR>
-- GRAPEJS MJML 1.0.2 <BR>
-- PHPMYADMIN 5.2.1<BR>
-- PHPMAILER 6.2.0<BR>
-- IMGUR API<BR>
+- ADMIN LTE 2.4.3 ( https://adminlte.io/ )<BR>
+- GRAPEJS MJML 1.0.2 ( https://grapesjs.com/ | NEWSLETTERS MJML PRESET )<BR>
+- PHPMYADMIN 5.2.1 ( https://www.phpmyadmin.net/ )<BR>
+- PHPMAILER 6.2.0 ( https://github.com/PHPMailer/PHPMailer )<BR>
+- IMGUR API ( https://imgur.com/ )<BR>
 - SMTP<BR>
 
 INSTALL INSTRUCTIONS:<BR>
