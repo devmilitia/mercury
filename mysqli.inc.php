@@ -12,7 +12,7 @@ ini_set('display_errors', 0);
 // Para funciones propias
 $cfg_servidor="localhost";
 $cfg_usuario="ventason_mercury_demo";
-$cfg_password="DsFWMlnVZX";
+$cfg_password="12345678";
 $cfg_basephp="ventason_mercury_demo";
 
 $conexion = new mysqli($cfg_servidor,$cfg_usuario,$cfg_password,$cfg_basephp);
@@ -35,7 +35,7 @@ $config["script_url"] = "https://www.ventason.com/mercury/datagrid/";
 $config["downloadURL"] = $config["script_url"] . "script/downloads/";
 $config["database"] = "ventason_mercury_demo";
 $config["username"] = "ventason_mercury_demo";
-$config["password"] = "DsFWMlnVZX";
+$config["password"] = "12345678";
 $config["lang"] = "es";
 $config["viewbtn"] = false;
 $config["csvBtn"] = false;
@@ -56,7 +56,7 @@ $config["checkboxCol"] = false;
 // Declaramos las credenciales de conexion
 $server = "localhost";
 $username = "ventason_mercury_demo";
-$password = "DsFWMlnVZX";
+$password = "12345678";
 $dbname = "ventason_mercury_demo";
 
 // Creamos la conexion MySQL
@@ -71,6 +71,6 @@ try{
 
 // Para Listas PHPMYADMIN
 $cfg_usuario_listas="ventason_mercury_demo";
-$cfg_password_listas="DsFWMlnVZX";
+$cfg_password_listas="12345678";
 // Para Listas PHPMYADMIN
 ?>
