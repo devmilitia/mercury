@@ -3,6 +3,8 @@ Mercury Launcher - Email BULK Software <BR>
 By Graphi𝕏𝕏 RōninnovatiON ^ 𝕏/acc ⬛️ <BR>
 www.devmilitia.org<br>
 
+![alt text](https://i.postimg.cc/G3jYqg6y/Mercurius.jpg)<br>
+
 ![alt text](https://i.postimg.cc/d03P6nnm/screenshot-2025-02-16-at-05-18-43.png)<br>
 
 <strong>FEATURES:</strong><BR>
