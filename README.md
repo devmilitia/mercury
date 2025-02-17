@@ -2,6 +2,13 @@
 Mercury Launcher - Email BULK Software <BR>
 By Graphi𝕏𝕏 RōninnovatiON ^ 𝕏/acc ⬛️ <BR>
 
+<hr>
+
+CHATGPT OPENAI was born as an open source project, support my open source project to shine and make a difference too ✨
+https://www.paypal.com/donate/?hosted_button_id=AQ2D3TLQM2XFC
+
+<hr>
+
 ![alt text](https://i.postimg.cc/G3jYqg6y/Mercurius.jpg)<br>
 
 In Roman mythology, Mercury (Latin: Mercurius; Italian: Mercurio; Greek: Μερκούριους) was an important god of commerce, son of Jupiter and Maia Maiestas. His name is related to the Latin word merx (merchandise).<br>
@@ -48,3 +55,10 @@ READY TO USE!!!<BR>
 - CHANGE THE LANGUAGE OF THE FRONT TO FULL ENGLISH
 - UPDATE MAIN LIBRARIES TO THE LATEST VERSIONS ( ADMIN LTE | PHP PDOCRUD | GRAPEJS | PHPMAILER )
 - PUBLISH A MULTI USERS VERSION
+
+<hr>
+
+CHATGPT OPENAI was born as an open source project, support my open source project to shine and make a difference too ✨
+https://www.paypal.com/donate/?hosted_button_id=AQ2D3TLQM2XFC
+
+<hr>
