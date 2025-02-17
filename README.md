@@ -8,8 +8,6 @@ In Roman mythology, Mercury (Latin: Mercurius; Italian: Mercurio; Greek: Μερ�
 
 Mercury was the Roman god of commerce, eloquence, messages, travelers, luck. He was also the messenger of the gods.<br>
 
-![alt text](https://i.postimg.cc/d03P6nnm/screenshot-2025-02-16-at-05-18-43.png)<br>
-
 <strong>FEATURES:</strong><BR>
 - WORKS SELECT AND EDIT CAMPAIGNS | HAS GRAPEJS MJML NEWSLETTERS<BR>
 - WORKS SAVE CAMPAIGN<BR>
